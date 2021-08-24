@@ -1,2 +1,2 @@
-# GLez
+# glEZ
 EZ OpenGL
